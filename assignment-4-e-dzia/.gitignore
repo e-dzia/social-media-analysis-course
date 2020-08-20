@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*.pkl
+*.zip
+18/
+40/
+*.pickle
+*.json
